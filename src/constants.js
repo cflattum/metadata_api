@@ -1,4 +1,4 @@
-const HOST = 'https://birthstamps.herokuapp.com'
+const HOST = 'https://knightmetadata.vercel.app'
 
 module.exports = {
   HOST
