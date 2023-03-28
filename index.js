@@ -5,6 +5,7 @@ const { HOST } = require('./src/constants')
 const db = require('./src/database')
 
 const PORT = process.env.PORT || 5000
+//diff port?
 
 const app = express()
   .set('port', PORT)
